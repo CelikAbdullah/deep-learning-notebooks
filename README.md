@@ -1,4 +1,4 @@
-# My Deep Learning Notebooks Repository:
+# My Deep Learning Notebooks Repository
 
 In this repository, you can find the implementations of Deep Reinforcement Learning algorithms and also implementations of deep learning models. 
 
