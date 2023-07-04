@@ -1,6 +1,6 @@
 # My Deep Learning Notebooks Repository
 
-In this repository, you can find the implementations of Deep Reinforcement Learning algorithms and also implementations of deep learning models. 
+In this repository, you can find the implementations of Deep Reinforcement Learning algorithms and also implementations of deep learning models for Computer Vision.
 
 Currently, there are the following DRL algorithms implemented:
 
