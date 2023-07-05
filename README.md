@@ -17,3 +17,4 @@ Policy-based algorithms:
 Actor-critic algorithms:
 * [A3C](https://arxiv.org/abs/1602.01783)
 * [GAE](https://arxiv.org/abs/1506.02438)
+* [A2C](https://arxiv.org/abs/1602.01783)
