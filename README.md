@@ -18,3 +18,9 @@ Actor-critic algorithms:
 * [A3C](https://arxiv.org/abs/1602.01783)
 * [GAE](https://arxiv.org/abs/1506.02438)
 * [A2C](https://arxiv.org/abs/1602.01783)
+
+
+Currently, the following Computer Vision models are implemented:
+* [VGG](https://arxiv.org/abs/1409.1556)
+* [ResNet](https://arxiv.org/abs/1512.03385)
+* [Inception](https://arxiv.org/abs/1409.4842)
