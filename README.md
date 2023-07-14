@@ -12,7 +12,7 @@ Value-based algorithms:
 
 Policy-based algorithms:
 * REINFORCE - [Code](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Policy%20Based/REINFORCE.ipynb)
-* VPG - [https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Policy%20Based/VPG.ipynb]
+* VPG - [Code](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Policy%20Based/VPG.ipynb)
 
 Actor-critic algorithms:
 * [A3C](https://arxiv.org/abs/1602.01783) - [Code](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/A3C.ipynb)
