@@ -19,6 +19,7 @@ Actor-critic algorithms:
 * [GAE](https://arxiv.org/abs/1506.02438)
 * [A2C](https://arxiv.org/abs/1602.01783)
 * [DDPG](https://arxiv.org/abs/1509.02971)
+* [TD3](https://arxiv.org/abs/1802.09477)
 
 
 Currently, the following Computer Vision models are implemented:
