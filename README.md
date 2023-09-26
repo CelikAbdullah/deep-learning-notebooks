@@ -23,6 +23,16 @@ Actor-critic algorithms:
 
 
 Currently, the following Computer Vision models are implemented:
-* [VGG](https://arxiv.org/abs/1409.1556)
-* [ResNet](https://arxiv.org/abs/1512.03385)
-* [Inception](https://arxiv.org/abs/1409.4842)
+* [AlexNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/AlexNet.ipynb)
+* [DenseNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/DenseNet.ipynb)
+* [Inception](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/Inception.ipynb)
+* [MobileNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/MobileNet.ipynb)
+* [ResNeXt](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/ResNeXt.ipynb)
+* [ResNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/ResNet.ipynb)
+* [SE-ResNeXt](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/SE-ResNeXt.ipynb)
+* [SE-ResNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/SE-ResNet.ipynb)
+* [ShuffleNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/ShuffleNet.ipynb)
+* [SqueezeNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/SqueezeNet.ipynb)
+* [VGG](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/VGG.ipynb)
+* [Xception](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/Xception.ipynb)
+* [ZFNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/ZFNet.ipynb)
