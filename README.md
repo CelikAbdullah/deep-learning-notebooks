@@ -21,7 +21,7 @@ Actor-critic algorithms:
 * [GAE](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/GAE.ipynb)
 * [PPO](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/PPO.ipynb)
 * [SAC](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/SAC.ipynb)
-* [TD3](https://arxiv.org/abs/1802.09477) - [Code](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/TD3.ipynb)
+* [TD3](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/TD3.ipynb)
 
 
 Currently, the following Computer Vision models are implemented:
