@@ -1,20 +1,18 @@
 # My Deep Learning Notebooks Repository
 
-In this repository, you can find the implementations of Deep Reinforcement Learning algorithms and also implementations of deep learning models for Computer Vision.
+In this repository, you can find the implementations of Deep Reinforcement Learning (DRL) algorithms and also implementations of deep learning models for Computer Vision and Natural Language Processing. 
 
-Currently, there are the following DRL algorithms implemented:
-
-Value-based algorithms: 
+Value-based DRL algorithms: 
 * [DQN](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Value%20Based/DQN.ipynb)
 * [Double DQN](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Value%20Based/Double%20DQN.ipynb)
 * [Dueling DDQN](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Value%20Based/Dueling%20DDQN.ipynb)
 * [Dueling DDQN with PER](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Value%20Based/Dueling%20DDQN%20with%20PER.ipynb)
 
-Policy-based algorithms:
+Policy-based DRL algorithms:
 * [REINFORCE](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Policy%20Based/REINFORCE.ipynb)
 * [VPG](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Policy%20Based/VPG.ipynb)
 
-Actor-critic algorithms:
+Actor-critic DRL algorithms:
 * [A2C](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/A2C.ipynb)
 * [A3C](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/A3C.ipynb)
 * [DDPG](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/DDPG.ipynb)
