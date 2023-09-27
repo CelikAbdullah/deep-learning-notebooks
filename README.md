@@ -39,7 +39,7 @@ Currently, I have implemented the following networks used in Computer Vision tas
 * [ZFNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/ZFNet.ipynb)
 
 
-References:
+## References:
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 * [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
 * [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
