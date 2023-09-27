@@ -36,3 +36,16 @@ Currently, the following Computer Vision models are implemented:
 * [VGG](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/VGG.ipynb)
 * [Xception](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/Xception.ipynb)
 * [ZFNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/ZFNet.ipynb)
+
+
+References:
+* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
+* [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
+* [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
+* [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+* [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
+* [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
+* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+* [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
+* [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477)
