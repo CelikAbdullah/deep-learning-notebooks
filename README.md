@@ -2,17 +2,17 @@
 
 In this repository, you can find the implementations of Deep Reinforcement Learning (DRL) algorithms and also implementations of deep learning models for Computer Vision and Natural Language Processing. 
 
-Value-based DRL algorithms: 
+## Value-based DRL algorithms: 
 * [DQN](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Value%20Based/DQN.ipynb)
 * [Double DQN](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Value%20Based/Double%20DQN.ipynb)
 * [Dueling DDQN](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Value%20Based/Dueling%20DDQN.ipynb)
 * [Dueling DDQN with PER](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Value%20Based/Dueling%20DDQN%20with%20PER.ipynb)
 
-Policy-based DRL algorithms:
+## Policy-based DRL algorithms:
 * [REINFORCE](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Policy%20Based/REINFORCE.ipynb)
 * [VPG](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Policy%20Based/VPG.ipynb)
 
-Actor-critic DRL algorithms:
+## Actor-critic DRL algorithms:
 * [A2C](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/A2C.ipynb)
 * [A3C](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/A3C.ipynb)
 * [DDPG](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/DDPG.ipynb)
@@ -22,7 +22,8 @@ Actor-critic DRL algorithms:
 * [TD3](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Deep%20Reinforcement%20Learning/Actor-Critic/TD3.ipynb)
 
 
-Currently, the following Computer Vision models are implemented:
+## Computer Vision models:
+Currently, I have implemented the following networks used in Computer Vision tasks:
 * [AlexNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/AlexNet.ipynb)
 * [DenseNet](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/DenseNet.ipynb)
 * [Inception](https://github.com/CelikAbdullah/deep-learning-notebooks/blob/main/Computer%20Vision/models/Inception.ipynb)
